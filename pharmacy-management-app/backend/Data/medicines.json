@@ -1,0 +1,11 @@
+[
+  {
+    "Id": "4098c92e-9f43-4e25-b9f0-734957eb3ca2",
+    "FullName": "Paracetamol",
+    "Notes": "",
+    "ExpiryDate": "2026-06-05T00:00:00",
+    "Quantity": 4,
+    "Price": 12.21,
+    "Brand": "ABC"
+  }
+]
